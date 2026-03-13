@@ -2,10 +2,11 @@
 
 Clasificación binaria (victoria/derrota) de partidos de la NBA usando tres algoritmos de aprendizaje supervisado.
 
-**Asignatura:** Introducción al Aprendizaje Automático  
-**Integrantes:** *Diego Andre Islas Cadillo - 2132810
-*Mayela Mayte Lopez Cerino - 1953581
-*Luis Daniel Ruiz Dorador - 2132809
+**Asignatura:** Introducción al Aprendizaje Automático 
+**Integrantes:**
+- Diego Andre Islas Cadillo 2132810
+- Mayela Mayte Lopez Cerino 1953581
+- Luis Daniel Ruiz Dorador 2132809 
 
 **Dataset:** [NBA Dataset – Kaggle](https://www.kaggle.com/datasets/brandonrollins/nba-dataset) (102,551 registros, 18 características)
 
